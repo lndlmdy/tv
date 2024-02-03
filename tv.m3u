@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1综合
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
 #EXTINF:-1,CCTV-2财经
 http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/1.m3u8
 #EXTINF:-1,CCTV-3综艺
